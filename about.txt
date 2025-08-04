@@ -1,0 +1,3 @@
+My name is: Jyothika
+course: B.Sc(DATA SCIENCE)
+By using GitHub I learned how to add my projects easily 
